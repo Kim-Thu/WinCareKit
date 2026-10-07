@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">WinCareKit Overview reference</title><desc id="desc">Approved layout reference for WinCareKit desktop UI.</desc>
+<defs>
+ <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#14B8A6"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="8" flood-opacity=".08"/></filter>
+</defs>
+<rect width="1440" height="900" rx="24" fill="#F6F9FC"/>
+<rect x="0" y="0" width="260" height="900" rx="24" fill="#FFFFFF"/>
+<circle cx="48" cy="52" r="22" fill="url(#brand)"/><text x="82" y="59" font-family="Segoe UI,Arial" font-size="24" font-weight="700" fill="#1E3A5F">WinCareKit</text>
+<text x="30" y="116" font-family="Segoe UI,Arial" font-size="14" fill="#7B8CA4">WINDOWS SYSTEM CARE TOOLKIT</text>
+<g font-family="Segoe UI,Arial" font-size="16" fill="#52647A">
+ <rect x="18" y="145" width="224" height="46" rx="12" fill="#EAF3FF"/><text x="58" y="174" fill="#2563EB" font-weight="700">Tổng quan</text>
+ <text x="58" y="226">Dọn rác</text><text x="58" y="276">Tối ưu khởi động</text><text x="58" y="326">Sửa lỗi Windows</text><text x="58" y="376">Thông tin máy</text><text x="58" y="426">Phần mềm</text><text x="58" y="476">Phân tích ổ đĩa</text><text x="58" y="526">Tiện ích</text><text x="58" y="576">Cài đặt</text>
+</g>
+<rect x="24" y="744" width="212" height="106" rx="16" fill="#F0FBF8"/><text x="44" y="780" font-family="Segoe UI,Arial" font-size="15" font-weight="700" fill="#137A68">Hệ thống an toàn</text><text x="44" y="806" font-family="Segoe UI,Arial" font-size="13" fill="#68847F">Hoạt động ổn định</text>
+<text x="300" y="70" font-family="Segoe UI,Arial" font-size="32" font-weight="700" fill="#18324E">Tổng quan hệ thống</text><text x="300" y="99" font-family="Segoe UI,Arial" font-size="15" fill="#75879A">Kiểm tra tình trạng máy tính và tối ưu hiệu suất Windows.</text>
+<rect x="1175" y="40" width="112" height="42" rx="12" fill="url(#brand)"/><text x="1201" y="67" font-family="Segoe UI,Arial" font-size="14" font-weight="700" fill="#fff">Quét nhanh</text><rect x="1298" y="40" width="98" height="42" rx="12" fill="#fff" stroke="#DDE6EF"/><text x="1320" y="67" font-family="Segoe UI,Arial" font-size="14" fill="#47627B">Làm mới</text>
+<g filter="url(#shadow)">
+ <rect x="300" y="130" width="330" height="280" rx="20" fill="#fff"/><rect x="650" y="130" width="230" height="130" rx="18" fill="#fff"/><rect x="900" y="130" width="230" height="130" rx="18" fill="#fff"/><rect x="1150" y="130" width="246" height="130" rx="18" fill="#fff"/>
+ <rect x="650" y="280" width="230" height="130" rx="18" fill="#fff"/><rect x="900" y="280" width="230" height="130" rx="18" fill="#fff"/><rect x="1150" y="280" width="246" height="130" rx="18" fill="#fff"/>
+</g>
+<text x="326" y="166" font-family="Segoe UI,Arial" font-size="17" font-weight="700" fill="#28445F">Chỉ số sức khỏe máy tính</text><circle cx="465" cy="258" r="72" fill="none" stroke="#E4EDF5" stroke-width="18"/><circle cx="465" cy="258" r="72" fill="none" stroke="url(#brand)" stroke-width="18" stroke-linecap="round" stroke-dasharray="380 452" transform="rotate(-90 465 258)"/><text x="441" y="269" font-family="Segoe UI,Arial" font-size="35" font-weight="700" fill="#18324E">84</text><text x="448" y="294" font-family="Segoe UI,Arial" font-size="15" fill="#14A18B">Tốt</text><rect x="364" y="348" width="202" height="40" rx="12" fill="url(#brand)"/><text x="411" y="374" font-family="Segoe UI,Arial" font-size="14" font-weight="700" fill="#fff">Tối ưu an toàn</text>
+<g font-family="Segoe UI,Arial">
+ <text x="674" y="165" font-size="15" font-weight="700" fill="#52647A">CPU</text><text x="674" y="210" font-size="30" font-weight="700" fill="#1F3B57">12%</text><path d="M675 232 C720 205 750 252 792 219 S840 233 858 211" fill="none" stroke="#2F80ED" stroke-width="4"/>
+ <text x="924" y="165" font-size="15" font-weight="700" fill="#52647A">RAM</text><text x="924" y="210" font-size="30" font-weight="700" fill="#1F3B57">52%</text><rect x="924" y="230" width="178" height="8" rx="4" fill="#EEEAFB"/><rect x="924" y="230" width="94" height="8" rx="4" fill="#8B5CF6"/>
+ <text x="1174" y="165" font-size="15" font-weight="700" fill="#52647A">Ổ hệ thống</text><text x="1174" y="210" font-size="30" font-weight="700" fill="#1F3B57">67%</text><rect x="1174" y="230" width="190" height="8" rx="4" fill="#E7EEF5"/><rect x="1174" y="230" width="127" height="8" rx="4" fill="#2F80ED"/>
+ <text x="674" y="315" font-size="15" font-weight="700" fill="#52647A">Mạng</text><text x="674" y="360" font-size="27" font-weight="700" fill="#1F3B57">12.4 KB/s</text><path d="M674 386 C720 350 755 395 800 365 S845 385 859 357" fill="none" stroke="#14B8A6" stroke-width="4"/>
+ <text x="924" y="315" font-size="15" font-weight="700" fill="#52647A">Uptime</text><text x="924" y="360" font-size="27" font-weight="700" fill="#1F3B57">2 ngày 14 giờ</text>
+ <text x="1174" y="315" font-size="15" font-weight="700" fill="#52647A">Tác vụ nền</text><text x="1174" y="360" font-size="27" font-weight="700" fill="#1F3B57">78 tiến trình</text>
+</g>
+<rect x="300" y="440" width="1096" height="300" rx="20" fill="#fff" filter="url(#shadow)"/><text x="326" y="480" font-family="Segoe UI,Arial" font-size="19" font-weight="700" fill="#28445F">Khuyến nghị cho máy tính của bạn</text>
+<g font-family="Segoe UI,Arial">
+ <g><circle cx="344" cy="530" r="18" fill="#FFF4DE"/><text x="378" y="525" font-size="15" font-weight="700" fill="#314D68">Có thể dọn 6,2 GB tệp rác</text><text x="378" y="548" font-size="13" fill="#8291A2">Tệp tạm, cache và log có thể xóa an toàn.</text><rect x="1228" y="510" width="132" height="36" rx="10" fill="#EAF3FF"/><text x="1252" y="533" font-size="13" fill="#2563EB">Dọn rác ngay</text></g>
+ <line x1="326" y1="572" x2="1370" y2="572" stroke="#EDF1F5"/>
+ <g><circle cx="344" cy="615" r="18" fill="#EEF5FF"/><text x="378" y="610" font-size="15" font-weight="700" fill="#314D68">9 ứng dụng khởi động cùng Windows</text><text x="378" y="633" font-size="13" fill="#8291A2">Xem ứng dụng không cần thiết để giảm thời gian khởi động.</text><rect x="1200" y="595" width="160" height="36" rx="10" fill="#EAF3FF"/><text x="1218" y="618" font-size="13" fill="#2563EB">Quản lý khởi động</text></g>
+ <line x1="326" y1="657" x2="1370" y2="657" stroke="#EDF1F5"/>
+ <g><circle cx="344" cy="700" r="18" fill="#F1EBFF"/><text x="378" y="695" font-size="15" font-weight="700" fill="#314D68">Tìm thấy tệp lớn cần kiểm tra</text><text x="378" y="718" font-size="13" fill="#8291A2">Mở Disk Analyzer để xem chi tiết dung lượng.</text><rect x="1234" y="680" width="126" height="36" rx="10" fill="#F1EBFF"/><text x="1258" y="703" font-size="13" fill="#7654D8">Xem tệp lớn</text></g>
+</g>
+<rect x="300" y="770" width="340" height="92" rx="18" fill="#fff"/><rect x="660" y="770" width="340" height="92" rx="18" fill="#fff"/><rect x="1020" y="770" width="376" height="92" rx="18" fill="#fff"/>
+<text x="324" y="805" font-family="Segoe UI,Arial" font-size="14" font-weight="700" fill="#52647A">Lần quét gần nhất</text><text x="324" y="835" font-family="Segoe UI,Arial" font-size="17" fill="#1F3B57">Hôm nay, 10:24</text><text x="684" y="805" font-family="Segoe UI,Arial" font-size="14" font-weight="700" fill="#52647A">Tác vụ nền</text><text x="684" y="835" font-family="Segoe UI,Arial" font-size="17" fill="#1F3B57">Hệ thống ổn định</text><text x="1044" y="805" font-family="Segoe UI,Arial" font-size="14" font-weight="700" fill="#52647A">Lịch sử thay đổi</text><text x="1044" y="835" font-family="Segoe UI,Arial" font-size="17" fill="#1F3B57">3 thay đổi gần đây</text>
+</svg>
